@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Perplexity Clone
+# ✨ Perplexity-Inspired AI Search Assistant
 
 **An AI-powered answer assistant inspired by Perplexity — featuring Markdown-formatted answers, a built-in Quiz Mode, and local search history.**
 
